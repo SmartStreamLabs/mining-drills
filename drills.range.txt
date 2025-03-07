@@ -1,0 +1,30 @@
+Normal drills:
+
+Diamond mining drill ( 6x6 )
+Iron mining drill ( 5x5 )
+Gold mining drill ( 4x4 )
+Redstone mining drill ( 8x8 )
+Lapis mining drill ( 9x9 )
+Netherite mining drill ( 10x10 )
+Coal mining drill ( 2x2 )
+Wooden mining drill ( 1x1 )
+Stone mining drill ( 1x2 )
+Quartz mining drill ( 12x12 Faster than copper )
+Copper mining drill ( 12x12 )
+Emerald mining drill ( 7x7 )
+
+Elite Drills:
+
+Elite Diamond Drill ( 15x15 )
+Elite Emerald Drill ( 17x17 )
+Elite Iron Drill ( 19x19 )
+Elite Netherite Drill ( 20x20 )
+
+Creative / Admin tools:  Use at your own risk, May cause lag for the first seconds.
+
+Creative drill ( 50x50 )
+Creative Elite drill ( 100x100 )
+
+
+
+
