@@ -22,8 +22,13 @@ Elite Netherite Drill ( 20x20 )
 
 Creative / Admin tools:  Use at your own risk, May cause lag for the first seconds.
 
-Creative drill ( 50x50 )
-Creative Elite drill ( 100x100 )
+Creative Drill ( 50x50 )
+Creative Elite Drill ( 100x100 )
+Creative Super Drill ( 350x350 )
+
+MultiTools:
+
+MultiTool is a tool that has everything in one. Pickaxe, Sword, Shovel, etc.
 
 
 
